@@ -28,7 +28,7 @@
     "php": "^7.4 || ^8.0",
     "typo3/cms-core": "^11.5",
     "b13/container": "^2.0",
-    "friendsoftypo3/headless": "^3.0"
+    "friendsoftypo3/headless": "^3.0 || dev-3.x"
   },
   "autoload": {
     "psr-4": {
